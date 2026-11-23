@@ -14,7 +14,6 @@ Bad experiences from previous group work, and what we commit to instead:
 
 - **Rotarande scrum master:** (every 2 weeks)
 - **Task assignment:** Decided by scrum master.
-- **Expertise:** 
 
 - **Meeting Secretary** Decided every monday
 - **Meeting Director** Decided every monday
