@@ -89,5 +89,5 @@ None right now. Add new contract questions here, and move the answer up into
 the right section once the team has agreed on it.
 
 ## Signatures
-
+Ludvig Bevheden
 
